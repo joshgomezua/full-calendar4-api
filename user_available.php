@@ -1,6 +1,6 @@
 <?
 //////////////////////////
-// Author: David J. Potter
+// Author: Kevin Carter
 // Date:   May 16 2019
 //////////////////////////
 ?>
